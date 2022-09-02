@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testProjSolarLab", "WinFormAfflineLesson\testProjSolarLab.csproj", "{A80C558F-AEFD-4EF4-92E1-04C8A1BA3A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80C558F-AEFD-4EF4-92E1-04C8A1BA3A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80C558F-AEFD-4EF4-92E1-04C8A1BA3A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80C558F-AEFD-4EF4-92E1-04C8A1BA3A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80C558F-AEFD-4EF4-92E1-04C8A1BA3A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71A50ED-8107-4EC2-B487-B06C0AC38F4F}
+	EndGlobalSection
+EndGlobal
